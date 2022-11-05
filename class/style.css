@@ -1,0 +1,48 @@
+.kokMatn {
+  color: blue;
+}
+
+.qizil {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+
+.qora {
+  color: black;
+  text-align: left;
+  opacity: 0.5;
+}
+
+.yashil {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+}
+
+th,
+td {
+  border: 1px solid brown;
+  padding: 5px 10px;
+}
+
+.rasm {
+  border-radius: 50px;
+  width: 450px;
+}
+
+.image {
+  border-radius: 50%;
+  width: 400px;
+}
+
+.sarlavha {
+  text-align: center;
+  font-weight: bold;
+}
